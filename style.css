@@ -1,0 +1,65 @@
+Body{
+max-width: 1200px;
+margin: 50px auto;
+
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-weight: 100;
+background-color: blanchedalmond;
+}
+
+h1{
+font-size: 70px;
+color:indianred;
+
+
+}
+h2{
+    font-size: 32px;
+    color: indianred;
+    letter-spacing: 2px;
+}
+p{
+    font-size: 17px;
+    color: indianred;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 1px;
+}
+
+h3{
+    font-size: 32px;
+    color: indianred;
+    letter-spacing: 2px;
+}
+
+hr{
+    color: indianred;
+}
+h4{
+    font-size: 32px;
+    color: indianred;
+    letter-spacing: 2px;
+}
+img22{
+position:absolute;
+top: 280px
+}
+p1{
+    font-size: 17px;
+    color: indianred;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 1px;
+   
+    
+}
+img {
+    display: block;
+    margin-left: auto;
+    
+  }
+img { float: right; width: 625px; }
+img{margin: 10px;}
+h5{
+    font-size: 32px;
+    color: indianred;
+    letter-spacing: 2px;
+}
